@@ -1,0 +1,233 @@
+{
+  "typeDocJsonParserVersion": "6.0.1",
+  "id": 0,
+  "name": "ebay-wrapper",
+  "version": "1.0.0",
+  "readme": "# ebay-wrapper\n\n<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->\n\n[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)\n\n<!-- ALL-CONTRIBUTORS-BADGE:END -->\n\n[![Deploy Docs](https://github.com/devramsean0/ebay-wrapper/actions/workflows/docs.yml/badge.svg?event=status)](https://github.com/devramsean0/ebay-wrapper/actions/workflows/docs.yml)\nAn ebay wrapper\n\n## Contributors\n\n<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->\n<!-- prettier-ignore-start -->\n<!-- markdownlint-disable -->\n<table>\n  <tbody>\n    <tr>\n      <td align=\"center\"><a href=\"https://github.com/devramsean0\"><img src=\"https://avatars.githubusercontent.com/u/81807361?v=4?s=100\" width=\"100px;\" alt=\"Sean Outram\"/><br /><sub><b>Sean Outram</b></sub></a><br /><a href=\"https://github.com/@devramsean0/EBAY-WRAPPER/commits?author=devramsean0\" title=\"Code\">💻</a> <a href=\"https://github.com/@devramsean0/EBAY-WRAPPER/commits?author=devramsean0\" title=\"Documentation\">📖</a></td>\n    </tr>\n  </tbody>\n  <tfoot>\n    <tr>\n      <td align=\"center\" size=\"13px\" colspan=\"7\">\n        <img src=\"https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg\">\n          <a href=\"https://all-contributors.js.org/docs/en/bot/usage\">Add your contributions</a>\n        </img>\n      </td>\n    </tr>\n  </tfoot>\n</table>\n\n<!-- markdownlint-restore -->\n<!-- prettier-ignore-end -->\n\n<!-- ALL-CONTRIBUTORS-LIST:END -->\n<!-- prettier-ignore-start -->\n<!-- markdownlint-disable -->\n\n<!-- markdownlint-restore -->\n<!-- prettier-ignore-end -->\n\n<!-- ALL-CONTRIBUTORS-LIST:END -->\n",
+  "changelog": null,
+  "classes": [
+    {
+      "id": 1,
+      "name": "Ebay",
+      "source": {
+        "line": 4,
+        "file": "index.ts",
+        "path": ".",
+        "url": "https://github.com/devramsean0/ebay-wrapper/blob/31da8fa/src/index.ts#L4"
+      },
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
+      "external": false,
+      "abstract": false,
+      "extendsType": null,
+      "implementsType": [],
+      "typeParameters": [],
+      "construct": {
+        "id": 2,
+        "name": "constructor",
+        "source": {
+          "line": 12,
+          "file": "index.ts",
+          "path": ".",
+          "url": "https://github.com/devramsean0/ebay-wrapper/blob/31da8fa/src/index.ts#L12"
+        },
+        "comment": {
+          "description": null,
+          "blockTags": [],
+          "modifierTags": []
+        },
+        "parentId": 1,
+        "parameters": [
+          {
+            "id": 4,
+            "name": "authorization",
+            "comment": {
+              "description": null,
+              "blockTags": [],
+              "modifierTags": []
+            },
+            "type": {
+              "kind": "intrinsic",
+              "type": "string"
+            }
+          },
+          {
+            "id": 5,
+            "name": "language",
+            "comment": {
+              "description": null,
+              "blockTags": [],
+              "modifierTags": []
+            },
+            "type": {
+              "kind": "intrinsic",
+              "type": "string"
+            }
+          },
+          {
+            "id": 6,
+            "name": "marketplaceid",
+            "comment": {
+              "description": null,
+              "blockTags": [],
+              "modifierTags": []
+            },
+            "type": {
+              "kind": "intrinsic",
+              "type": "string"
+            }
+          }
+        ]
+      },
+      "properties": [
+        {
+          "id": 7,
+          "name": "authorization",
+          "source": {
+            "line": 5,
+            "file": "index.ts",
+            "path": ".",
+            "url": "https://github.com/devramsean0/ebay-wrapper/blob/31da8fa/src/index.ts#L5"
+          },
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
+          "parentId": 1,
+          "accessibility": "private",
+          "abstract": false,
+          "static": false,
+          "readonly": false,
+          "optional": false,
+          "type": {
+            "kind": "intrinsic",
+            "type": "string"
+          }
+        },
+        {
+          "id": 11,
+          "name": "browse",
+          "source": {
+            "line": 36,
+            "file": "index.ts",
+            "path": ".",
+            "url": "https://github.com/devramsean0/ebay-wrapper/blob/31da8fa/src/index.ts#L36"
+          },
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
+          "parentId": 1,
+          "accessibility": "public",
+          "abstract": false,
+          "static": false,
+          "readonly": false,
+          "optional": false,
+          "type": {
+            "kind": "reference",
+            "id": null,
+            "name": "buy",
+            "packageName": null,
+            "typeArguments": []
+          }
+        },
+        {
+          "id": 8,
+          "name": "language",
+          "source": {
+            "line": 6,
+            "file": "index.ts",
+            "path": ".",
+            "url": "https://github.com/devramsean0/ebay-wrapper/blob/31da8fa/src/index.ts#L6"
+          },
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
+          "parentId": 1,
+          "accessibility": "private",
+          "abstract": false,
+          "static": false,
+          "readonly": false,
+          "optional": false,
+          "type": {
+            "kind": "intrinsic",
+            "type": "string"
+          }
+        },
+        {
+          "id": 9,
+          "name": "marketplaceid",
+          "source": {
+            "line": 7,
+            "file": "index.ts",
+            "path": ".",
+            "url": "https://github.com/devramsean0/ebay-wrapper/blob/31da8fa/src/index.ts#L7"
+          },
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
+          "parentId": 1,
+          "accessibility": "private",
+          "abstract": false,
+          "static": false,
+          "readonly": false,
+          "optional": false,
+          "type": {
+            "kind": "union",
+            "types": [
+              {
+                "kind": "intrinsic",
+                "type": "undefined"
+              },
+              {
+                "kind": "intrinsic",
+                "type": "string"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "name": "url",
+          "source": {
+            "line": 8,
+            "file": "index.ts",
+            "path": ".",
+            "url": "https://github.com/devramsean0/ebay-wrapper/blob/31da8fa/src/index.ts#L8"
+          },
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
+          "parentId": 1,
+          "accessibility": "private",
+          "abstract": false,
+          "static": false,
+          "readonly": false,
+          "optional": false,
+          "type": {
+            "kind": "intrinsic",
+            "type": "string"
+          }
+        }
+      ],
+      "methods": []
+    }
+  ],
+  "enums": [],
+  "functions": [],
+  "interfaces": [],
+  "namespaces": [],
+  "typeAliases": [],
+  "variables": []
+}
