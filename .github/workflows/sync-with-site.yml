@@ -12,6 +12,8 @@ jobs:
           repository: 'devramsean0/site'
           token: ${{ secrets.TOKEN }}
           path: '.'
+      - name: "Init submodule"
+        run: git submodule update --init
       - name: "Update the submodule"
         run: git submodule update --remote docs
       - name: Commit & Push
