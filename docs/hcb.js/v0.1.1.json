@@ -1,5 +1,5 @@
 {
-  "typeDocJsonParserVersion": "8.2.0",
+  "typeDocJsonParserVersion": "9.0.1",
   "id": 0,
   "name": "hcb.js",
   "version": "0.1.1",
@@ -9,17 +9,17 @@
     {
       "id": 134,
       "name": "HCB",
-      "source": {
-        "line": 13,
-        "file": "client.ts",
-        "path": ".",
-        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L13"
-      },
       "namespaceParentId": null,
       "comment": {
         "description": null,
         "blockTags": [],
         "modifierTags": []
+      },
+      "source": {
+        "line": 13,
+        "file": "client.ts",
+        "path": ".",
+        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L13"
       },
       "external": false,
       "abstract": false,
@@ -29,13 +29,13 @@
       "construct": {
         "id": 135,
         "name": "constructor",
-        "source": null,
         "comment": {
           "description": null,
           "blockTags": [],
           "modifierTags": []
         },
         "parentId": 134,
+        "source": null,
         "accessibility": "public",
         "parameters": []
       },
@@ -43,16 +43,16 @@
         {
           "id": 143,
           "name": "ACHTransfer",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 24,
             "file": "client.ts",
             "path": ".",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L24"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 134,
           "accessibility": "public",
@@ -71,16 +71,16 @@
         {
           "id": 145,
           "name": "card",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 26,
             "file": "client.ts",
             "path": ".",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L26"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 134,
           "accessibility": "public",
@@ -99,16 +99,16 @@
         {
           "id": 139,
           "name": "cardCharge",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 20,
             "file": "client.ts",
             "path": ".",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L20"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 134,
           "accessibility": "public",
@@ -127,16 +127,16 @@
         {
           "id": 142,
           "name": "check",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 23,
             "file": "client.ts",
             "path": ".",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L23"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 134,
           "accessibility": "public",
@@ -155,16 +155,16 @@
         {
           "id": 140,
           "name": "donation",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 21,
             "file": "client.ts",
             "path": ".",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L21"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 134,
           "accessibility": "public",
@@ -183,16 +183,16 @@
         {
           "id": 141,
           "name": "invoice",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 22,
             "file": "client.ts",
             "path": ".",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L22"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 134,
           "accessibility": "public",
@@ -211,12 +211,6 @@
         {
           "id": 137,
           "name": "organization",
-          "source": {
-            "line": 18,
-            "file": "client.ts",
-            "path": ".",
-            "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L18"
-          },
           "comment": {
             "description": null,
             "blockTags": [
@@ -226,6 +220,12 @@
               }
             ],
             "modifierTags": []
+          },
+          "source": {
+            "line": 18,
+            "file": "client.ts",
+            "path": ".",
+            "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L18"
           },
           "parentId": 134,
           "accessibility": "public",
@@ -244,16 +244,16 @@
         {
           "id": 138,
           "name": "transaction",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 19,
             "file": "client.ts",
             "path": ".",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L19"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 134,
           "accessibility": "public",
@@ -272,16 +272,16 @@
         {
           "id": 144,
           "name": "transfer",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 25,
             "file": "client.ts",
             "path": ".",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/client.ts#L25"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 134,
           "accessibility": "public",
@@ -303,12 +303,6 @@
     {
       "id": 253,
       "name": "HCB_ACHTransfer",
-      "source": {
-        "line": 9,
-        "file": "ACH_transfer.ts",
-        "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/ACH_transfer.ts#L9"
-      },
       "namespaceParentId": null,
       "comment": {
         "description": null,
@@ -320,6 +314,12 @@
         ],
         "modifierTags": []
       },
+      "source": {
+        "line": 9,
+        "file": "ACH_transfer.ts",
+        "path": "api_endpoints",
+        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/ACH_transfer.ts#L9"
+      },
       "external": false,
       "abstract": false,
       "extendsType": null,
@@ -328,13 +328,13 @@
       "construct": {
         "id": 254,
         "name": "constructor",
-        "source": null,
         "comment": {
           "description": null,
           "blockTags": [],
           "modifierTags": []
         },
         "parentId": 253,
+        "source": null,
         "accessibility": "public",
         "parameters": []
       },
@@ -575,12 +575,6 @@
     {
       "id": 289,
       "name": "HCB_Card",
-      "source": {
-        "line": 9,
-        "file": "card.ts",
-        "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/card.ts#L9"
-      },
       "namespaceParentId": null,
       "comment": {
         "description": null,
@@ -592,6 +586,12 @@
         ],
         "modifierTags": []
       },
+      "source": {
+        "line": 9,
+        "file": "card.ts",
+        "path": "api_endpoints",
+        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/card.ts#L9"
+      },
       "external": false,
       "abstract": false,
       "extendsType": null,
@@ -600,13 +600,13 @@
       "construct": {
         "id": 290,
         "name": "constructor",
-        "source": null,
         "comment": {
           "description": null,
           "blockTags": [],
           "modifierTags": []
         },
         "parentId": 289,
+        "source": null,
         "accessibility": "public",
         "parameters": []
       },
@@ -847,12 +847,6 @@
     {
       "id": 181,
       "name": "HCB_CardCharge",
-      "source": {
-        "line": 8,
-        "file": "card_charge.ts",
-        "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/card_charge.ts#L8"
-      },
       "namespaceParentId": null,
       "comment": {
         "description": null,
@@ -864,6 +858,12 @@
         ],
         "modifierTags": []
       },
+      "source": {
+        "line": 8,
+        "file": "card_charge.ts",
+        "path": "api_endpoints",
+        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/card_charge.ts#L8"
+      },
       "external": false,
       "abstract": false,
       "extendsType": null,
@@ -872,13 +872,13 @@
       "construct": {
         "id": 182,
         "name": "constructor",
-        "source": null,
         "comment": {
           "description": null,
           "blockTags": [],
           "modifierTags": []
         },
         "parentId": 181,
+        "source": null,
         "accessibility": "public",
         "parameters": []
       },
@@ -1119,12 +1119,6 @@
     {
       "id": 235,
       "name": "HCB_Check",
-      "source": {
-        "line": 9,
-        "file": "checks.ts",
-        "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/checks.ts#L9"
-      },
       "namespaceParentId": null,
       "comment": {
         "description": null,
@@ -1136,6 +1130,12 @@
         ],
         "modifierTags": []
       },
+      "source": {
+        "line": 9,
+        "file": "checks.ts",
+        "path": "api_endpoints",
+        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/checks.ts#L9"
+      },
       "external": false,
       "abstract": false,
       "extendsType": null,
@@ -1144,13 +1144,13 @@
       "construct": {
         "id": 236,
         "name": "constructor",
-        "source": null,
         "comment": {
           "description": null,
           "blockTags": [],
           "modifierTags": []
         },
         "parentId": 235,
+        "source": null,
         "accessibility": "public",
         "parameters": []
       },
@@ -1391,12 +1391,6 @@
     {
       "id": 199,
       "name": "HCB_Donation",
-      "source": {
-        "line": 9,
-        "file": "donation.ts",
-        "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/donation.ts#L9"
-      },
       "namespaceParentId": null,
       "comment": {
         "description": null,
@@ -1408,6 +1402,12 @@
         ],
         "modifierTags": []
       },
+      "source": {
+        "line": 9,
+        "file": "donation.ts",
+        "path": "api_endpoints",
+        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/donation.ts#L9"
+      },
       "external": false,
       "abstract": false,
       "extendsType": null,
@@ -1416,13 +1416,13 @@
       "construct": {
         "id": 200,
         "name": "constructor",
-        "source": null,
         "comment": {
           "description": null,
           "blockTags": [],
           "modifierTags": []
         },
         "parentId": 199,
+        "source": null,
         "accessibility": "public",
         "parameters": []
       },
@@ -1663,12 +1663,6 @@
     {
       "id": 217,
       "name": "HCB_Invoice",
-      "source": {
-        "line": 9,
-        "file": "invoices.ts",
-        "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/invoices.ts#L9"
-      },
       "namespaceParentId": null,
       "comment": {
         "description": null,
@@ -1680,6 +1674,12 @@
         ],
         "modifierTags": []
       },
+      "source": {
+        "line": 9,
+        "file": "invoices.ts",
+        "path": "api_endpoints",
+        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/invoices.ts#L9"
+      },
       "external": false,
       "abstract": false,
       "extendsType": null,
@@ -1688,13 +1688,13 @@
       "construct": {
         "id": 218,
         "name": "constructor",
-        "source": null,
         "comment": {
           "description": null,
           "blockTags": [],
           "modifierTags": []
         },
         "parentId": 217,
+        "source": null,
         "accessibility": "public",
         "parameters": []
       },
@@ -1935,12 +1935,6 @@
     {
       "id": 146,
       "name": "HCB_Organization",
-      "source": {
-        "line": 8,
-        "file": "organization.ts",
-        "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/organization.ts#L8"
-      },
       "namespaceParentId": null,
       "comment": {
         "description": null,
@@ -1952,6 +1946,12 @@
         ],
         "modifierTags": []
       },
+      "source": {
+        "line": 8,
+        "file": "organization.ts",
+        "path": "api_endpoints",
+        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/organization.ts#L8"
+      },
       "external": false,
       "abstract": false,
       "extendsType": null,
@@ -1960,13 +1960,13 @@
       "construct": {
         "id": 147,
         "name": "constructor",
-        "source": null,
         "comment": {
           "description": null,
           "blockTags": [],
           "modifierTags": []
         },
         "parentId": 146,
+        "source": null,
         "accessibility": "public",
         "parameters": []
       },
@@ -2192,12 +2192,6 @@
     {
       "id": 163,
       "name": "HCB_Transaction",
-      "source": {
-        "line": 8,
-        "file": "transaction.ts",
-        "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/transaction.ts#L8"
-      },
       "namespaceParentId": null,
       "comment": {
         "description": null,
@@ -2209,6 +2203,12 @@
         ],
         "modifierTags": []
       },
+      "source": {
+        "line": 8,
+        "file": "transaction.ts",
+        "path": "api_endpoints",
+        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/transaction.ts#L8"
+      },
       "external": false,
       "abstract": false,
       "extendsType": null,
@@ -2217,13 +2217,13 @@
       "construct": {
         "id": 164,
         "name": "constructor",
-        "source": null,
         "comment": {
           "description": null,
           "blockTags": [],
           "modifierTags": []
         },
         "parentId": 163,
+        "source": null,
         "accessibility": "public",
         "parameters": []
       },
@@ -2464,12 +2464,6 @@
     {
       "id": 271,
       "name": "HCB_Transfer",
-      "source": {
-        "line": 9,
-        "file": "transfer.ts",
-        "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/transfer.ts#L9"
-      },
       "namespaceParentId": null,
       "comment": {
         "description": null,
@@ -2481,6 +2475,12 @@
         ],
         "modifierTags": []
       },
+      "source": {
+        "line": 9,
+        "file": "transfer.ts",
+        "path": "api_endpoints",
+        "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_endpoints/transfer.ts#L9"
+      },
       "external": false,
       "abstract": false,
       "extendsType": null,
@@ -2489,13 +2489,13 @@
       "construct": {
         "id": 272,
         "name": "constructor",
-        "source": null,
         "comment": {
           "description": null,
           "blockTags": [],
           "modifierTags": []
         },
         "parentId": 271,
+        "source": null,
         "accessibility": "public",
         "parameters": []
       },
@@ -2740,6 +2740,11 @@
     {
       "id": 74,
       "name": "I_HCB_ACHTransfer",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 4,
         "file": "ACH_transfer.ts",
@@ -2747,27 +2752,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/ACH_transfer.ts#L4"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 81,
           "name": "amount_cents",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 11,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/ACH_transfer.ts#L11"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 74,
           "readonly": false,
@@ -2780,16 +2780,16 @@
         {
           "id": 84,
           "name": "beneficiary",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 14,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/ACH_transfer.ts#L14"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 74,
           "readonly": false,
@@ -2820,16 +2820,16 @@
         {
           "id": 82,
           "name": "date",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 12,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/ACH_transfer.ts#L12"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 74,
           "readonly": false,
@@ -2842,16 +2842,16 @@
         {
           "id": 77,
           "name": "href",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 7,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/ACH_transfer.ts#L7"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 74,
           "readonly": false,
@@ -2864,16 +2864,16 @@
         {
           "id": 75,
           "name": "id",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 5,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/ACH_transfer.ts#L5"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 74,
           "readonly": false,
@@ -2886,16 +2886,16 @@
         {
           "id": 78,
           "name": "memo",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 8,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/ACH_transfer.ts#L8"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 74,
           "readonly": false,
@@ -2908,16 +2908,16 @@
         {
           "id": 76,
           "name": "object",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 6,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/ACH_transfer.ts#L6"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 74,
           "readonly": false,
@@ -2930,16 +2930,16 @@
         {
           "id": 80,
           "name": "organization",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 10,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/ACH_transfer.ts#L10"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 74,
           "readonly": false,
@@ -2955,16 +2955,16 @@
         {
           "id": 83,
           "name": "status",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 13,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/ACH_transfer.ts#L13"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 74,
           "readonly": false,
@@ -2994,16 +2994,16 @@
         {
           "id": 79,
           "name": "transaction",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 9,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/ACH_transfer.ts#L9"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 74,
           "readonly": false,
@@ -3022,6 +3022,11 @@
     {
       "id": 53,
       "name": "I_HCB_Card",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 4,
         "file": "card.ts",
@@ -3029,27 +3034,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card.ts#L4"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 56,
           "name": "href",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 7,
             "file": "card.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card.ts#L7"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 53,
           "readonly": false,
@@ -3062,16 +3062,16 @@
         {
           "id": 54,
           "name": "id",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 5,
             "file": "card.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card.ts#L5"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 53,
           "readonly": false,
@@ -3084,16 +3084,16 @@
         {
           "id": 60,
           "name": "issued_at",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 11,
             "file": "card.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card.ts#L11"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 53,
           "readonly": false,
@@ -3106,16 +3106,16 @@
         {
           "id": 57,
           "name": "name",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 8,
             "file": "card.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card.ts#L8"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 53,
           "readonly": false,
@@ -3128,16 +3128,16 @@
         {
           "id": 55,
           "name": "object",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 6,
             "file": "card.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card.ts#L6"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 53,
           "readonly": false,
@@ -3150,16 +3150,16 @@
         {
           "id": 62,
           "name": "organization",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 13,
             "file": "card.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card.ts#L13"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 53,
           "readonly": false,
@@ -3175,16 +3175,16 @@
         {
           "id": 61,
           "name": "owner",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 12,
             "file": "card.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card.ts#L12"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 53,
           "readonly": false,
@@ -3200,16 +3200,16 @@
         {
           "id": 59,
           "name": "status",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 10,
             "file": "card.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card.ts#L10"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 53,
           "readonly": false,
@@ -3235,16 +3235,16 @@
         {
           "id": 58,
           "name": "type",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 9,
             "file": "card.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card.ts#L9"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 53,
           "readonly": false,
@@ -3269,6 +3269,11 @@
     {
       "id": 63,
       "name": "I_HCB_CardCharge",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 6,
         "file": "card_charge.ts",
@@ -3276,27 +3281,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card_charge.ts#L6"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 70,
           "name": "amount_cents",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 13,
             "file": "card_charge.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card_charge.ts#L13"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 63,
           "readonly": false,
@@ -3309,16 +3309,16 @@
         {
           "id": 72,
           "name": "card",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 15,
             "file": "card_charge.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card_charge.ts#L15"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 63,
           "readonly": false,
@@ -3334,16 +3334,16 @@
         {
           "id": 71,
           "name": "date",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 14,
             "file": "card_charge.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card_charge.ts#L14"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 63,
           "readonly": false,
@@ -3356,16 +3356,16 @@
         {
           "id": 66,
           "name": "href",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 9,
             "file": "card_charge.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card_charge.ts#L9"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 63,
           "readonly": false,
@@ -3378,16 +3378,16 @@
         {
           "id": 64,
           "name": "id",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 7,
             "file": "card_charge.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card_charge.ts#L7"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 63,
           "readonly": false,
@@ -3400,16 +3400,16 @@
         {
           "id": 67,
           "name": "memo",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 10,
             "file": "card_charge.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card_charge.ts#L10"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 63,
           "readonly": false,
@@ -3422,16 +3422,16 @@
         {
           "id": 65,
           "name": "object",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 8,
             "file": "card_charge.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card_charge.ts#L8"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 63,
           "readonly": false,
@@ -3444,16 +3444,16 @@
         {
           "id": 69,
           "name": "organization",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 12,
             "file": "card_charge.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card_charge.ts#L12"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 63,
           "readonly": false,
@@ -3469,16 +3469,16 @@
         {
           "id": 68,
           "name": "transaction",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 11,
             "file": "card_charge.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card_charge.ts#L11"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 63,
           "readonly": false,
@@ -3494,16 +3494,16 @@
         {
           "id": 73,
           "name": "user",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 16,
             "file": "card_charge.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/card_charge.ts#L16"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 63,
           "readonly": false,
@@ -3522,6 +3522,11 @@
     {
       "id": 87,
       "name": "I_HCB_Check",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 1,
         "file": "check.ts",
@@ -3529,27 +3534,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/check.ts#L1"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 92,
           "name": "amount_cents",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 6,
             "file": "check.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/check.ts#L6"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 87,
           "readonly": false,
@@ -3562,16 +3562,16 @@
         {
           "id": 93,
           "name": "date",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 7,
             "file": "check.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/check.ts#L7"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 87,
           "readonly": false,
@@ -3584,16 +3584,16 @@
         {
           "id": 90,
           "name": "href",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 4,
             "file": "check.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/check.ts#L4"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 87,
           "readonly": false,
@@ -3606,16 +3606,16 @@
         {
           "id": 88,
           "name": "id",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 2,
             "file": "check.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/check.ts#L2"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 87,
           "readonly": false,
@@ -3628,16 +3628,16 @@
         {
           "id": 91,
           "name": "memo",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 5,
             "file": "check.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/check.ts#L5"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 87,
           "readonly": false,
@@ -3650,16 +3650,16 @@
         {
           "id": 89,
           "name": "object",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 3,
             "file": "check.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/check.ts#L3"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 87,
           "readonly": false,
@@ -3672,16 +3672,16 @@
         {
           "id": 94,
           "name": "status",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 8,
             "file": "check.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/check.ts#L8"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 87,
           "readonly": false,
@@ -3726,6 +3726,11 @@
     {
       "id": 95,
       "name": "I_HCB_Donation",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 4,
         "file": "donation.ts",
@@ -3733,27 +3738,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/donation.ts#L4"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 102,
           "name": "amount_cents",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 11,
             "file": "donation.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/donation.ts#L11"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 95,
           "readonly": false,
@@ -3766,16 +3766,16 @@
         {
           "id": 106,
           "name": "date",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 15,
             "file": "donation.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/donation.ts#L15"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 95,
           "readonly": false,
@@ -3788,16 +3788,16 @@
         {
           "id": 103,
           "name": "donor",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 12,
             "file": "donation.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/donation.ts#L12"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 95,
           "readonly": false,
@@ -3828,16 +3828,16 @@
         {
           "id": 98,
           "name": "href",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 7,
             "file": "donation.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/donation.ts#L7"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 95,
           "readonly": false,
@@ -3850,16 +3850,16 @@
         {
           "id": 96,
           "name": "id",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 5,
             "file": "donation.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/donation.ts#L5"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 95,
           "readonly": false,
@@ -3872,16 +3872,16 @@
         {
           "id": 99,
           "name": "memo",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 8,
             "file": "donation.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/donation.ts#L8"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 95,
           "readonly": false,
@@ -3894,16 +3894,16 @@
         {
           "id": 97,
           "name": "object",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 6,
             "file": "donation.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/donation.ts#L6"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 95,
           "readonly": false,
@@ -3916,16 +3916,16 @@
         {
           "id": 101,
           "name": "organization",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 10,
             "file": "donation.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/donation.ts#L10"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 95,
           "readonly": false,
@@ -3941,16 +3941,16 @@
         {
           "id": 107,
           "name": "status",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 16,
             "file": "donation.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/donation.ts#L16"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 95,
           "readonly": false,
@@ -3984,16 +3984,16 @@
         {
           "id": 100,
           "name": "transaction",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 9,
             "file": "donation.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/donation.ts#L9"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 95,
           "readonly": false,
@@ -4012,6 +4012,11 @@
     {
       "id": 132,
       "name": "I_HCB_Error",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 1,
         "file": "error.ts",
@@ -4019,27 +4024,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/error.ts#L1"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 133,
           "name": "message",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 2,
             "file": "error.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/error.ts#L2"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 132,
           "readonly": false,
@@ -4055,6 +4055,11 @@
     {
       "id": 108,
       "name": "I_HCB_Invoice",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 4,
         "file": "invoice.ts",
@@ -4062,27 +4067,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/invoice.ts#L4"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 115,
           "name": "amount_cents",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 11,
             "file": "invoice.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/invoice.ts#L11"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 108,
           "readonly": false,
@@ -4095,16 +4095,16 @@
         {
           "id": 120,
           "name": "date",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 16,
             "file": "invoice.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/invoice.ts#L16"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 108,
           "readonly": false,
@@ -4117,16 +4117,16 @@
         {
           "id": 111,
           "name": "href",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 7,
             "file": "invoice.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/invoice.ts#L7"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 108,
           "readonly": false,
@@ -4139,16 +4139,16 @@
         {
           "id": 109,
           "name": "id",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 5,
             "file": "invoice.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/invoice.ts#L5"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 108,
           "readonly": false,
@@ -4161,16 +4161,16 @@
         {
           "id": 112,
           "name": "memo",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 8,
             "file": "invoice.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/invoice.ts#L8"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 108,
           "readonly": false,
@@ -4183,16 +4183,16 @@
         {
           "id": 110,
           "name": "object",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 6,
             "file": "invoice.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/invoice.ts#L6"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 108,
           "readonly": false,
@@ -4205,16 +4205,16 @@
         {
           "id": 114,
           "name": "organization",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 10,
             "file": "invoice.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/invoice.ts#L10"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 108,
           "readonly": false,
@@ -4230,16 +4230,16 @@
         {
           "id": 116,
           "name": "sponsor",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 12,
             "file": "invoice.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/invoice.ts#L12"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 108,
           "readonly": false,
@@ -4285,16 +4285,16 @@
         {
           "id": 121,
           "name": "status",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 17,
             "file": "invoice.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/invoice.ts#L17"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 108,
           "readonly": false,
@@ -4320,16 +4320,16 @@
         {
           "id": 113,
           "name": "transaction",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 9,
             "file": "invoice.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/invoice.ts#L9"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 108,
           "readonly": false,
@@ -4348,6 +4348,11 @@
     {
       "id": 7,
       "name": "I_HCB_Organization",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 3,
         "file": "organization.ts",
@@ -4355,27 +4360,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L3"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 18,
           "name": "balances",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 14,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L14"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4436,16 +4436,16 @@
         {
           "id": 13,
           "name": "category",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 9,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L9"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4491,16 +4491,16 @@
         {
           "id": 23,
           "name": "created_at",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 19,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L19"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4513,16 +4513,16 @@
         {
           "id": 15,
           "name": "demo_mode",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 11,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L11"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4535,16 +4535,16 @@
         {
           "id": 10,
           "name": "href",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 6,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L6"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4557,16 +4557,16 @@
         {
           "id": 8,
           "name": "id",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 4,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L4"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4579,16 +4579,16 @@
         {
           "id": 16,
           "name": "logo",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 12,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L12"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4601,16 +4601,16 @@
         {
           "id": 11,
           "name": "name",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 7,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L7"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4623,16 +4623,16 @@
         {
           "id": 9,
           "name": "object",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 5,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L5"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4645,16 +4645,16 @@
         {
           "id": 17,
           "name": "public_message",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 13,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L13"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4667,16 +4667,16 @@
         {
           "id": 12,
           "name": "slug",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 8,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L8"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4689,16 +4689,16 @@
         {
           "id": 14,
           "name": "transparent",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 10,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L10"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4711,16 +4711,16 @@
         {
           "id": 24,
           "name": "users",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 20,
             "file": "organization.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/organization.ts#L20"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 7,
           "readonly": false,
@@ -4742,6 +4742,11 @@
     {
       "id": 49,
       "name": "I_HCB_Tag",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 1,
         "file": "tag.ts",
@@ -4749,27 +4754,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/tag.ts#L1"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 50,
           "name": "id",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 2,
             "file": "tag.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/tag.ts#L2"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 49,
           "readonly": false,
@@ -4782,16 +4782,16 @@
         {
           "id": 52,
           "name": "label",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 4,
             "file": "tag.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/tag.ts#L4"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 49,
           "readonly": false,
@@ -4804,16 +4804,16 @@
         {
           "id": 51,
           "name": "object",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 3,
             "file": "tag.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/tag.ts#L3"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 49,
           "readonly": false,
@@ -4829,6 +4829,11 @@
     {
       "id": 25,
       "name": "I_HCB_Transaction",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 10,
         "file": "transaction.ts",
@@ -4836,27 +4841,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L10"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 44,
           "name": "ach_transfer",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 29,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L29"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -4872,16 +4872,16 @@
         {
           "id": 29,
           "name": "amount_cents",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 14,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L14"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -4894,16 +4894,16 @@
         {
           "id": 43,
           "name": "card_charge",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 28,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L28"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -4919,16 +4919,16 @@
         {
           "id": 45,
           "name": "check",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 30,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L30"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -4944,16 +4944,16 @@
         {
           "id": 38,
           "name": "comments",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 23,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L23"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -4984,16 +4984,16 @@
         {
           "id": 31,
           "name": "date",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 16,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L16"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5006,16 +5006,16 @@
         {
           "id": 46,
           "name": "donation",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 31,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L31"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5031,16 +5031,16 @@
         {
           "id": 28,
           "name": "href",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 13,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L13"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5053,16 +5053,16 @@
         {
           "id": 26,
           "name": "id",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 11,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L11"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5075,16 +5075,16 @@
         {
           "id": 47,
           "name": "invoice",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 32,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L32"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5100,16 +5100,16 @@
         {
           "id": 30,
           "name": "memo",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 15,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L15"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5122,16 +5122,16 @@
         {
           "id": 27,
           "name": "object",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 12,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L12"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5144,16 +5144,16 @@
         {
           "id": 41,
           "name": "organization",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 26,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L26"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5169,16 +5169,16 @@
         {
           "id": 33,
           "name": "pending",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 18,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L18"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5191,16 +5191,16 @@
         {
           "id": 34,
           "name": "receipts",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 19,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L19"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5246,16 +5246,16 @@
         {
           "id": 42,
           "name": "tags",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 27,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L27"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5274,16 +5274,16 @@
         {
           "id": 48,
           "name": "transfer",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 33,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L33"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5299,16 +5299,16 @@
         {
           "id": 32,
           "name": "type",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 17,
             "file": "transaction.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transaction.ts#L17"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 25,
           "readonly": false,
@@ -5353,6 +5353,11 @@
     {
       "id": 122,
       "name": "I_HCB_Transfer",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 4,
         "file": "transfer.ts",
@@ -5360,27 +5365,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transfer.ts#L4"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 129,
           "name": "amount_cents",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 11,
             "file": "transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transfer.ts#L11"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 122,
           "readonly": false,
@@ -5393,16 +5393,16 @@
         {
           "id": 130,
           "name": "date",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 12,
             "file": "transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transfer.ts#L12"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 122,
           "readonly": false,
@@ -5415,16 +5415,16 @@
         {
           "id": 125,
           "name": "href",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 7,
             "file": "transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transfer.ts#L7"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 122,
           "readonly": false,
@@ -5437,16 +5437,16 @@
         {
           "id": 123,
           "name": "id",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 5,
             "file": "transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transfer.ts#L5"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 122,
           "readonly": false,
@@ -5459,16 +5459,16 @@
         {
           "id": 126,
           "name": "memo",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 8,
             "file": "transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transfer.ts#L8"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 122,
           "readonly": false,
@@ -5481,16 +5481,16 @@
         {
           "id": 124,
           "name": "object",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 6,
             "file": "transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transfer.ts#L6"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 122,
           "readonly": false,
@@ -5503,16 +5503,16 @@
         {
           "id": 128,
           "name": "organization",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 10,
             "file": "transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transfer.ts#L10"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 122,
           "readonly": false,
@@ -5528,16 +5528,16 @@
         {
           "id": 131,
           "name": "status",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 13,
             "file": "transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transfer.ts#L13"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 122,
           "readonly": false,
@@ -5579,16 +5579,16 @@
         {
           "id": 127,
           "name": "transaction",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 9,
             "file": "transfer.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/transfer.ts#L9"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 122,
           "readonly": false,
@@ -5607,6 +5607,11 @@
     {
       "id": 1,
       "name": "I_HCB_User",
+      "comment": {
+        "description": null,
+        "blockTags": [],
+        "modifierTags": []
+      },
       "source": {
         "line": 1,
         "file": "user.ts",
@@ -5614,27 +5619,22 @@
         "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/user.ts#L1"
       },
       "namespaceParentId": null,
-      "comment": {
-        "description": null,
-        "blockTags": [],
-        "modifierTags": []
-      },
       "external": false,
       "typeParameters": [],
       "properties": [
         {
           "id": 5,
           "name": "admin",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 5,
             "file": "user.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/user.ts#L5"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 1,
           "readonly": false,
@@ -5647,16 +5647,16 @@
         {
           "id": 4,
           "name": "full_name",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 4,
             "file": "user.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/user.ts#L4"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 1,
           "readonly": false,
@@ -5669,16 +5669,16 @@
         {
           "id": 2,
           "name": "id",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 2,
             "file": "user.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/user.ts#L2"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 1,
           "readonly": false,
@@ -5691,16 +5691,16 @@
         {
           "id": 3,
           "name": "object",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 3,
             "file": "user.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/user.ts#L3"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 1,
           "readonly": false,
@@ -5713,16 +5713,16 @@
         {
           "id": 6,
           "name": "photo",
+          "comment": {
+            "description": null,
+            "blockTags": [],
+            "modifierTags": []
+          },
           "source": {
             "line": 6,
             "file": "user.ts",
             "path": "api_schemas",
             "url": "https://github.com/devramsean0/hcb.js/blob/4bedef3/src/api_schemas/user.ts#L6"
-          },
-          "comment": {
-            "description": null,
-            "blockTags": [],
-            "modifierTags": []
           },
           "parentId": 1,
           "readonly": false,

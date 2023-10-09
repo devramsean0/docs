@@ -1,0 +1,14 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devramsean0/docs",
+  "author": "Sean Outram <outramsean0@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typedoc-json-parser": "^9.0.1"
+  },
+  "scripts": {
+    "typedoc:migrate": "typedoc-json-parser --migrate docs"
+  }
+}
