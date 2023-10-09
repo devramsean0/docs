@@ -13,7 +13,7 @@
         "line": 13,
         "file": "client.ts",
         "path": ".",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/client.ts#L13"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/client.ts#L13"
       },
       "namespaceParentId": null,
       "comment": {
@@ -47,7 +47,7 @@
             "line": 24,
             "file": "client.ts",
             "path": ".",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/client.ts#L24"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/client.ts#L24"
           },
           "comment": {
             "description": null,
@@ -75,7 +75,7 @@
             "line": 26,
             "file": "client.ts",
             "path": ".",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/client.ts#L26"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/client.ts#L26"
           },
           "comment": {
             "description": null,
@@ -103,7 +103,7 @@
             "line": 20,
             "file": "client.ts",
             "path": ".",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/client.ts#L20"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/client.ts#L20"
           },
           "comment": {
             "description": null,
@@ -131,7 +131,7 @@
             "line": 23,
             "file": "client.ts",
             "path": ".",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/client.ts#L23"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/client.ts#L23"
           },
           "comment": {
             "description": null,
@@ -159,7 +159,7 @@
             "line": 21,
             "file": "client.ts",
             "path": ".",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/client.ts#L21"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/client.ts#L21"
           },
           "comment": {
             "description": null,
@@ -187,7 +187,7 @@
             "line": 22,
             "file": "client.ts",
             "path": ".",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/client.ts#L22"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/client.ts#L22"
           },
           "comment": {
             "description": null,
@@ -215,7 +215,7 @@
             "line": 18,
             "file": "client.ts",
             "path": ".",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/client.ts#L18"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/client.ts#L18"
           },
           "comment": {
             "description": null,
@@ -248,7 +248,7 @@
             "line": 19,
             "file": "client.ts",
             "path": ".",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/client.ts#L19"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/client.ts#L19"
           },
           "comment": {
             "description": null,
@@ -276,7 +276,7 @@
             "line": 25,
             "file": "client.ts",
             "path": ".",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/client.ts#L25"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/client.ts#L25"
           },
           "comment": {
             "description": null,
@@ -307,7 +307,7 @@
         "line": 9,
         "file": "ACH_transfer.ts",
         "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/ACH_transfer.ts#L9"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/ACH_transfer.ts#L9"
       },
       "namespaceParentId": null,
       "comment": {
@@ -347,7 +347,7 @@
             "line": 10,
             "file": "ACH_transfer.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/ACH_transfer.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/ACH_transfer.ts#L10"
           },
           "parentId": 253,
           "accessibility": "public",
@@ -486,7 +486,7 @@
             "line": 28,
             "file": "ACH_transfer.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/ACH_transfer.ts#L28"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/ACH_transfer.ts#L28"
           },
           "parentId": 253,
           "accessibility": "public",
@@ -579,7 +579,7 @@
         "line": 9,
         "file": "card.ts",
         "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/card.ts#L9"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/card.ts#L9"
       },
       "namespaceParentId": null,
       "comment": {
@@ -619,7 +619,7 @@
             "line": 10,
             "file": "card.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/card.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/card.ts#L10"
           },
           "parentId": 289,
           "accessibility": "public",
@@ -758,7 +758,7 @@
             "line": 22,
             "file": "card.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/card.ts#L22"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/card.ts#L22"
           },
           "parentId": 289,
           "accessibility": "public",
@@ -851,7 +851,7 @@
         "line": 8,
         "file": "card_charge.ts",
         "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/card_charge.ts#L8"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/card_charge.ts#L8"
       },
       "namespaceParentId": null,
       "comment": {
@@ -891,7 +891,7 @@
             "line": 9,
             "file": "card_charge.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/card_charge.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/card_charge.ts#L9"
           },
           "parentId": 181,
           "accessibility": "public",
@@ -1030,7 +1030,7 @@
             "line": 27,
             "file": "card_charge.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/card_charge.ts#L27"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/card_charge.ts#L27"
           },
           "parentId": 181,
           "accessibility": "public",
@@ -1123,7 +1123,7 @@
         "line": 9,
         "file": "checks.ts",
         "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/checks.ts#L9"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/checks.ts#L9"
       },
       "namespaceParentId": null,
       "comment": {
@@ -1163,7 +1163,7 @@
             "line": 10,
             "file": "checks.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/checks.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/checks.ts#L10"
           },
           "parentId": 235,
           "accessibility": "public",
@@ -1302,7 +1302,7 @@
             "line": 22,
             "file": "checks.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/checks.ts#L22"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/checks.ts#L22"
           },
           "parentId": 235,
           "accessibility": "public",
@@ -1395,7 +1395,7 @@
         "line": 9,
         "file": "donation.ts",
         "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/donation.ts#L9"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/donation.ts#L9"
       },
       "namespaceParentId": null,
       "comment": {
@@ -1435,7 +1435,7 @@
             "line": 10,
             "file": "donation.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/donation.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/donation.ts#L10"
           },
           "parentId": 199,
           "accessibility": "public",
@@ -1574,7 +1574,7 @@
             "line": 28,
             "file": "donation.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/donation.ts#L28"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/donation.ts#L28"
           },
           "parentId": 199,
           "accessibility": "public",
@@ -1667,7 +1667,7 @@
         "line": 9,
         "file": "invoices.ts",
         "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/invoices.ts#L9"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/invoices.ts#L9"
       },
       "namespaceParentId": null,
       "comment": {
@@ -1707,7 +1707,7 @@
             "line": 10,
             "file": "invoices.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/invoices.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/invoices.ts#L10"
           },
           "parentId": 217,
           "accessibility": "public",
@@ -1846,7 +1846,7 @@
             "line": 22,
             "file": "invoices.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/invoices.ts#L22"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/invoices.ts#L22"
           },
           "parentId": 217,
           "accessibility": "public",
@@ -1939,7 +1939,7 @@
         "line": 8,
         "file": "organization.ts",
         "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/organization.ts#L8"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/organization.ts#L8"
       },
       "namespaceParentId": null,
       "comment": {
@@ -1979,7 +1979,7 @@
             "line": 21,
             "file": "organization.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/organization.ts#L21"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/organization.ts#L21"
           },
           "parentId": 146,
           "accessibility": "public",
@@ -2103,7 +2103,7 @@
             "line": 9,
             "file": "organization.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/organization.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/organization.ts#L9"
           },
           "parentId": 146,
           "accessibility": "public",
@@ -2196,7 +2196,7 @@
         "line": 8,
         "file": "transaction.ts",
         "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/transaction.ts#L8"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/transaction.ts#L8"
       },
       "namespaceParentId": null,
       "comment": {
@@ -2236,7 +2236,7 @@
             "line": 9,
             "file": "transaction.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/transaction.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/transaction.ts#L9"
           },
           "parentId": 163,
           "accessibility": "public",
@@ -2375,7 +2375,7 @@
             "line": 27,
             "file": "transaction.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/transaction.ts#L27"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/transaction.ts#L27"
           },
           "parentId": 163,
           "accessibility": "public",
@@ -2468,7 +2468,7 @@
         "line": 9,
         "file": "transfer.ts",
         "path": "api_endpoints",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/transfer.ts#L9"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/transfer.ts#L9"
       },
       "namespaceParentId": null,
       "comment": {
@@ -2508,7 +2508,7 @@
             "line": 10,
             "file": "transfer.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/transfer.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/transfer.ts#L10"
           },
           "parentId": 271,
           "accessibility": "public",
@@ -2647,7 +2647,7 @@
             "line": 28,
             "file": "transfer.ts",
             "path": "api_endpoints",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_endpoints/transfer.ts#L28"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_endpoints/transfer.ts#L28"
           },
           "parentId": 271,
           "accessibility": "public",
@@ -2742,7 +2742,7 @@
         "line": 16,
         "file": "hcb_logos.ts",
         "path": "enums",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L16"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L16"
       },
       "namespaceParentId": null,
       "comment": {
@@ -2759,7 +2759,7 @@
             "line": 24,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L24"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L24"
           },
           "comment": {
             "description": null,
@@ -2776,7 +2776,7 @@
             "line": 23,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L23"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L23"
           },
           "comment": {
             "description": null,
@@ -2793,7 +2793,7 @@
             "line": 25,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L25"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L25"
           },
           "comment": {
             "description": null,
@@ -2810,7 +2810,7 @@
             "line": 26,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L26"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L26"
           },
           "comment": {
             "description": null,
@@ -2827,7 +2827,7 @@
             "line": 22,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L22"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L22"
           },
           "comment": {
             "description": null,
@@ -2844,7 +2844,7 @@
             "line": 21,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L21"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L21"
           },
           "comment": {
             "description": null,
@@ -2868,7 +2868,7 @@
         "line": 2,
         "file": "hcb_logos.ts",
         "path": "enums",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L2"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L2"
       },
       "namespaceParentId": null,
       "comment": {
@@ -2885,7 +2885,7 @@
             "line": 10,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L10"
           },
           "comment": {
             "description": null,
@@ -2902,7 +2902,7 @@
             "line": 9,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L9"
           },
           "comment": {
             "description": null,
@@ -2919,7 +2919,7 @@
             "line": 11,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L11"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L11"
           },
           "comment": {
             "description": null,
@@ -2936,7 +2936,7 @@
             "line": 12,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L12"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L12"
           },
           "comment": {
             "description": null,
@@ -2953,7 +2953,7 @@
             "line": 8,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L8"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L8"
           },
           "comment": {
             "description": null,
@@ -2970,7 +2970,7 @@
             "line": 7,
             "file": "hcb_logos.ts",
             "path": "enums",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/enums/hcb_logos.ts#L7"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/enums/hcb_logos.ts#L7"
           },
           "comment": {
             "description": null,
@@ -2997,7 +2997,7 @@
         "line": 4,
         "file": "ACH_transfer.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/ACH_transfer.ts#L4"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/ACH_transfer.ts#L4"
       },
       "namespaceParentId": null,
       "comment": {
@@ -3015,7 +3015,7 @@
             "line": 15,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/ACH_transfer.ts#L15"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/ACH_transfer.ts#L15"
           },
           "comment": {
             "description": null,
@@ -3037,7 +3037,7 @@
             "line": 18,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/ACH_transfer.ts#L18"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/ACH_transfer.ts#L18"
           },
           "comment": {
             "description": null,
@@ -3077,7 +3077,7 @@
             "line": 16,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/ACH_transfer.ts#L16"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/ACH_transfer.ts#L16"
           },
           "comment": {
             "description": null,
@@ -3099,7 +3099,7 @@
             "line": 11,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/ACH_transfer.ts#L11"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/ACH_transfer.ts#L11"
           },
           "comment": {
             "description": null,
@@ -3121,7 +3121,7 @@
             "line": 9,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/ACH_transfer.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/ACH_transfer.ts#L9"
           },
           "comment": {
             "description": null,
@@ -3150,7 +3150,7 @@
             "line": 12,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/ACH_transfer.ts#L12"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/ACH_transfer.ts#L12"
           },
           "comment": {
             "description": null,
@@ -3172,7 +3172,7 @@
             "line": 10,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/ACH_transfer.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/ACH_transfer.ts#L10"
           },
           "comment": {
             "description": null,
@@ -3194,7 +3194,7 @@
             "line": 14,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/ACH_transfer.ts#L14"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/ACH_transfer.ts#L14"
           },
           "comment": {
             "description": null,
@@ -3219,7 +3219,7 @@
             "line": 17,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/ACH_transfer.ts#L17"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/ACH_transfer.ts#L17"
           },
           "comment": {
             "description": null,
@@ -3258,7 +3258,7 @@
             "line": 13,
             "file": "ACH_transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/ACH_transfer.ts#L13"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/ACH_transfer.ts#L13"
           },
           "comment": {
             "description": null,
@@ -3286,7 +3286,7 @@
         "line": 4,
         "file": "card.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card.ts#L4"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card.ts#L4"
       },
       "namespaceParentId": null,
       "comment": {
@@ -3304,7 +3304,7 @@
             "line": 11,
             "file": "card.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card.ts#L11"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card.ts#L11"
           },
           "comment": {
             "description": null,
@@ -3326,7 +3326,7 @@
             "line": 9,
             "file": "card.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card.ts#L9"
           },
           "comment": {
             "description": null,
@@ -3355,7 +3355,7 @@
             "line": 15,
             "file": "card.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card.ts#L15"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card.ts#L15"
           },
           "comment": {
             "description": null,
@@ -3377,7 +3377,7 @@
             "line": 12,
             "file": "card.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card.ts#L12"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card.ts#L12"
           },
           "comment": {
             "description": null,
@@ -3399,7 +3399,7 @@
             "line": 10,
             "file": "card.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card.ts#L10"
           },
           "comment": {
             "description": null,
@@ -3421,7 +3421,7 @@
             "line": 17,
             "file": "card.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card.ts#L17"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card.ts#L17"
           },
           "comment": {
             "description": null,
@@ -3446,7 +3446,7 @@
             "line": 16,
             "file": "card.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card.ts#L16"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card.ts#L16"
           },
           "comment": {
             "description": null,
@@ -3471,7 +3471,7 @@
             "line": 14,
             "file": "card.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card.ts#L14"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card.ts#L14"
           },
           "comment": {
             "description": null,
@@ -3506,7 +3506,7 @@
             "line": 13,
             "file": "card.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card.ts#L13"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card.ts#L13"
           },
           "comment": {
             "description": null,
@@ -3540,7 +3540,7 @@
         "line": 6,
         "file": "card_charge.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card_charge.ts#L6"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card_charge.ts#L6"
       },
       "namespaceParentId": null,
       "comment": {
@@ -3558,7 +3558,7 @@
             "line": 17,
             "file": "card_charge.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card_charge.ts#L17"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card_charge.ts#L17"
           },
           "comment": {
             "description": null,
@@ -3580,7 +3580,7 @@
             "line": 19,
             "file": "card_charge.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card_charge.ts#L19"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card_charge.ts#L19"
           },
           "comment": {
             "description": null,
@@ -3605,7 +3605,7 @@
             "line": 18,
             "file": "card_charge.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card_charge.ts#L18"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card_charge.ts#L18"
           },
           "comment": {
             "description": null,
@@ -3627,7 +3627,7 @@
             "line": 13,
             "file": "card_charge.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card_charge.ts#L13"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card_charge.ts#L13"
           },
           "comment": {
             "description": null,
@@ -3649,7 +3649,7 @@
             "line": 11,
             "file": "card_charge.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card_charge.ts#L11"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card_charge.ts#L11"
           },
           "comment": {
             "description": null,
@@ -3678,7 +3678,7 @@
             "line": 14,
             "file": "card_charge.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card_charge.ts#L14"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card_charge.ts#L14"
           },
           "comment": {
             "description": null,
@@ -3700,7 +3700,7 @@
             "line": 12,
             "file": "card_charge.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card_charge.ts#L12"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card_charge.ts#L12"
           },
           "comment": {
             "description": null,
@@ -3722,7 +3722,7 @@
             "line": 16,
             "file": "card_charge.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card_charge.ts#L16"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card_charge.ts#L16"
           },
           "comment": {
             "description": null,
@@ -3747,7 +3747,7 @@
             "line": 15,
             "file": "card_charge.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card_charge.ts#L15"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card_charge.ts#L15"
           },
           "comment": {
             "description": null,
@@ -3772,7 +3772,7 @@
             "line": 20,
             "file": "card_charge.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/card_charge.ts#L20"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/card_charge.ts#L20"
           },
           "comment": {
             "description": null,
@@ -3800,7 +3800,7 @@
         "line": 1,
         "file": "check.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/check.ts#L1"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/check.ts#L1"
       },
       "namespaceParentId": null,
       "comment": {
@@ -3818,7 +3818,7 @@
             "line": 10,
             "file": "check.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/check.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/check.ts#L10"
           },
           "comment": {
             "description": null,
@@ -3840,7 +3840,7 @@
             "line": 11,
             "file": "check.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/check.ts#L11"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/check.ts#L11"
           },
           "comment": {
             "description": null,
@@ -3862,7 +3862,7 @@
             "line": 8,
             "file": "check.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/check.ts#L8"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/check.ts#L8"
           },
           "comment": {
             "description": null,
@@ -3884,7 +3884,7 @@
             "line": 6,
             "file": "check.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/check.ts#L6"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/check.ts#L6"
           },
           "comment": {
             "description": null,
@@ -3913,7 +3913,7 @@
             "line": 9,
             "file": "check.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/check.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/check.ts#L9"
           },
           "comment": {
             "description": null,
@@ -3935,7 +3935,7 @@
             "line": 7,
             "file": "check.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/check.ts#L7"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/check.ts#L7"
           },
           "comment": {
             "description": null,
@@ -3957,7 +3957,7 @@
             "line": 12,
             "file": "check.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/check.ts#L12"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/check.ts#L12"
           },
           "comment": {
             "description": null,
@@ -4011,7 +4011,7 @@
         "line": 4,
         "file": "donation.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/donation.ts#L4"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/donation.ts#L4"
       },
       "namespaceParentId": null,
       "comment": {
@@ -4029,7 +4029,7 @@
             "line": 15,
             "file": "donation.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/donation.ts#L15"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/donation.ts#L15"
           },
           "comment": {
             "description": null,
@@ -4051,7 +4051,7 @@
             "line": 19,
             "file": "donation.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/donation.ts#L19"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/donation.ts#L19"
           },
           "comment": {
             "description": null,
@@ -4073,7 +4073,7 @@
             "line": 16,
             "file": "donation.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/donation.ts#L16"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/donation.ts#L16"
           },
           "comment": {
             "description": null,
@@ -4113,7 +4113,7 @@
             "line": 11,
             "file": "donation.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/donation.ts#L11"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/donation.ts#L11"
           },
           "comment": {
             "description": null,
@@ -4135,7 +4135,7 @@
             "line": 9,
             "file": "donation.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/donation.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/donation.ts#L9"
           },
           "comment": {
             "description": null,
@@ -4164,7 +4164,7 @@
             "line": 12,
             "file": "donation.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/donation.ts#L12"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/donation.ts#L12"
           },
           "comment": {
             "description": null,
@@ -4186,7 +4186,7 @@
             "line": 10,
             "file": "donation.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/donation.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/donation.ts#L10"
           },
           "comment": {
             "description": null,
@@ -4208,7 +4208,7 @@
             "line": 14,
             "file": "donation.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/donation.ts#L14"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/donation.ts#L14"
           },
           "comment": {
             "description": null,
@@ -4233,7 +4233,7 @@
             "line": 20,
             "file": "donation.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/donation.ts#L20"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/donation.ts#L20"
           },
           "comment": {
             "description": null,
@@ -4276,7 +4276,7 @@
             "line": 13,
             "file": "donation.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/donation.ts#L13"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/donation.ts#L13"
           },
           "comment": {
             "description": null,
@@ -4304,7 +4304,7 @@
         "line": 1,
         "file": "error.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/error.ts#L1"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/error.ts#L1"
       },
       "namespaceParentId": null,
       "comment": {
@@ -4322,7 +4322,7 @@
             "line": 6,
             "file": "error.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/error.ts#L6"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/error.ts#L6"
           },
           "comment": {
             "description": null,
@@ -4354,7 +4354,7 @@
         "line": 4,
         "file": "invoice.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/invoice.ts#L4"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/invoice.ts#L4"
       },
       "namespaceParentId": null,
       "comment": {
@@ -4372,7 +4372,7 @@
             "line": 15,
             "file": "invoice.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/invoice.ts#L15"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/invoice.ts#L15"
           },
           "comment": {
             "description": null,
@@ -4394,7 +4394,7 @@
             "line": 20,
             "file": "invoice.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/invoice.ts#L20"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/invoice.ts#L20"
           },
           "comment": {
             "description": null,
@@ -4416,7 +4416,7 @@
             "line": 11,
             "file": "invoice.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/invoice.ts#L11"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/invoice.ts#L11"
           },
           "comment": {
             "description": null,
@@ -4438,7 +4438,7 @@
             "line": 9,
             "file": "invoice.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/invoice.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/invoice.ts#L9"
           },
           "comment": {
             "description": null,
@@ -4467,7 +4467,7 @@
             "line": 12,
             "file": "invoice.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/invoice.ts#L12"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/invoice.ts#L12"
           },
           "comment": {
             "description": null,
@@ -4489,7 +4489,7 @@
             "line": 10,
             "file": "invoice.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/invoice.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/invoice.ts#L10"
           },
           "comment": {
             "description": null,
@@ -4511,7 +4511,7 @@
             "line": 14,
             "file": "invoice.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/invoice.ts#L14"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/invoice.ts#L14"
           },
           "comment": {
             "description": null,
@@ -4536,7 +4536,7 @@
             "line": 16,
             "file": "invoice.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/invoice.ts#L16"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/invoice.ts#L16"
           },
           "comment": {
             "description": null,
@@ -4591,7 +4591,7 @@
             "line": 21,
             "file": "invoice.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/invoice.ts#L21"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/invoice.ts#L21"
           },
           "comment": {
             "description": null,
@@ -4626,7 +4626,7 @@
             "line": 13,
             "file": "invoice.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/invoice.ts#L13"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/invoice.ts#L13"
           },
           "comment": {
             "description": null,
@@ -4654,7 +4654,7 @@
         "line": 3,
         "file": "organization.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L3"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L3"
       },
       "namespaceParentId": null,
       "comment": {
@@ -4672,7 +4672,7 @@
             "line": 18,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L18"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L18"
           },
           "comment": {
             "description": null,
@@ -4742,7 +4742,7 @@
             "line": 13,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L13"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L13"
           },
           "comment": {
             "description": null,
@@ -4797,7 +4797,7 @@
             "line": 23,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L23"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L23"
           },
           "comment": {
             "description": null,
@@ -4819,7 +4819,7 @@
             "line": 15,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L15"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L15"
           },
           "comment": {
             "description": null,
@@ -4841,7 +4841,7 @@
             "line": 10,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L10"
           },
           "comment": {
             "description": null,
@@ -4863,7 +4863,7 @@
             "line": 8,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L8"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L8"
           },
           "comment": {
             "description": null,
@@ -4892,7 +4892,7 @@
             "line": 16,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L16"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L16"
           },
           "comment": {
             "description": null,
@@ -4914,7 +4914,7 @@
             "line": 11,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L11"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L11"
           },
           "comment": {
             "description": null,
@@ -4936,7 +4936,7 @@
             "line": 9,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L9"
           },
           "comment": {
             "description": null,
@@ -4958,7 +4958,7 @@
             "line": 17,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L17"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L17"
           },
           "comment": {
             "description": null,
@@ -4980,7 +4980,7 @@
             "line": 12,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L12"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L12"
           },
           "comment": {
             "description": null,
@@ -5002,7 +5002,7 @@
             "line": 14,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L14"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L14"
           },
           "comment": {
             "description": null,
@@ -5024,7 +5024,7 @@
             "line": 24,
             "file": "organization.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/organization.ts#L24"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/organization.ts#L24"
           },
           "comment": {
             "description": null,
@@ -5055,7 +5055,7 @@
         "line": 1,
         "file": "tag.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/tag.ts#L1"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/tag.ts#L1"
       },
       "namespaceParentId": null,
       "comment": {
@@ -5073,7 +5073,7 @@
             "line": 6,
             "file": "tag.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/tag.ts#L6"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/tag.ts#L6"
           },
           "comment": {
             "description": null,
@@ -5102,7 +5102,7 @@
             "line": 8,
             "file": "tag.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/tag.ts#L8"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/tag.ts#L8"
           },
           "comment": {
             "description": null,
@@ -5124,7 +5124,7 @@
             "line": 7,
             "file": "tag.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/tag.ts#L7"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/tag.ts#L7"
           },
           "comment": {
             "description": null,
@@ -5149,7 +5149,7 @@
         "line": 10,
         "file": "transaction.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L10"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L10"
       },
       "namespaceParentId": null,
       "comment": {
@@ -5167,7 +5167,7 @@
             "line": 33,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L33"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L33"
           },
           "comment": {
             "description": null,
@@ -5192,7 +5192,7 @@
             "line": 18,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L18"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L18"
           },
           "comment": {
             "description": null,
@@ -5214,7 +5214,7 @@
             "line": 32,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L32"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L32"
           },
           "comment": {
             "description": null,
@@ -5239,7 +5239,7 @@
             "line": 34,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L34"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L34"
           },
           "comment": {
             "description": null,
@@ -5264,7 +5264,7 @@
             "line": 27,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L27"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L27"
           },
           "comment": {
             "description": null,
@@ -5304,7 +5304,7 @@
             "line": 20,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L20"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L20"
           },
           "comment": {
             "description": null,
@@ -5326,7 +5326,7 @@
             "line": 35,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L35"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L35"
           },
           "comment": {
             "description": null,
@@ -5351,7 +5351,7 @@
             "line": 17,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L17"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L17"
           },
           "comment": {
             "description": null,
@@ -5373,7 +5373,7 @@
             "line": 15,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L15"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L15"
           },
           "comment": {
             "description": null,
@@ -5402,7 +5402,7 @@
             "line": 36,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L36"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L36"
           },
           "comment": {
             "description": null,
@@ -5427,7 +5427,7 @@
             "line": 19,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L19"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L19"
           },
           "comment": {
             "description": null,
@@ -5449,7 +5449,7 @@
             "line": 16,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L16"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L16"
           },
           "comment": {
             "description": null,
@@ -5471,7 +5471,7 @@
             "line": 30,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L30"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L30"
           },
           "comment": {
             "description": null,
@@ -5496,7 +5496,7 @@
             "line": 22,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L22"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L22"
           },
           "comment": {
             "description": null,
@@ -5518,7 +5518,7 @@
             "line": 23,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L23"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L23"
           },
           "comment": {
             "description": null,
@@ -5573,7 +5573,7 @@
             "line": 31,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L31"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L31"
           },
           "comment": {
             "description": null,
@@ -5601,7 +5601,7 @@
             "line": 37,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L37"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L37"
           },
           "comment": {
             "description": null,
@@ -5626,7 +5626,7 @@
             "line": 21,
             "file": "transaction.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transaction.ts#L21"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transaction.ts#L21"
           },
           "comment": {
             "description": null,
@@ -5680,7 +5680,7 @@
         "line": 4,
         "file": "transfer.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transfer.ts#L4"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transfer.ts#L4"
       },
       "namespaceParentId": null,
       "comment": {
@@ -5698,7 +5698,7 @@
             "line": 15,
             "file": "transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transfer.ts#L15"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transfer.ts#L15"
           },
           "comment": {
             "description": null,
@@ -5720,7 +5720,7 @@
             "line": 16,
             "file": "transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transfer.ts#L16"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transfer.ts#L16"
           },
           "comment": {
             "description": null,
@@ -5742,7 +5742,7 @@
             "line": 11,
             "file": "transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transfer.ts#L11"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transfer.ts#L11"
           },
           "comment": {
             "description": null,
@@ -5764,7 +5764,7 @@
             "line": 9,
             "file": "transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transfer.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transfer.ts#L9"
           },
           "comment": {
             "description": null,
@@ -5793,7 +5793,7 @@
             "line": 12,
             "file": "transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transfer.ts#L12"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transfer.ts#L12"
           },
           "comment": {
             "description": null,
@@ -5815,7 +5815,7 @@
             "line": 10,
             "file": "transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transfer.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transfer.ts#L10"
           },
           "comment": {
             "description": null,
@@ -5837,7 +5837,7 @@
             "line": 14,
             "file": "transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transfer.ts#L14"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transfer.ts#L14"
           },
           "comment": {
             "description": null,
@@ -5862,7 +5862,7 @@
             "line": 17,
             "file": "transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transfer.ts#L17"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transfer.ts#L17"
           },
           "comment": {
             "description": null,
@@ -5913,7 +5913,7 @@
             "line": 13,
             "file": "transfer.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/transfer.ts#L13"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/transfer.ts#L13"
           },
           "comment": {
             "description": null,
@@ -5941,7 +5941,7 @@
         "line": 1,
         "file": "user.ts",
         "path": "api_schemas",
-        "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/user.ts#L1"
+        "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/user.ts#L1"
       },
       "namespaceParentId": null,
       "comment": {
@@ -5959,7 +5959,7 @@
             "line": 9,
             "file": "user.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/user.ts#L9"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/user.ts#L9"
           },
           "comment": {
             "description": null,
@@ -5981,7 +5981,7 @@
             "line": 8,
             "file": "user.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/user.ts#L8"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/user.ts#L8"
           },
           "comment": {
             "description": null,
@@ -6003,7 +6003,7 @@
             "line": 6,
             "file": "user.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/user.ts#L6"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/user.ts#L6"
           },
           "comment": {
             "description": null,
@@ -6032,7 +6032,7 @@
             "line": 7,
             "file": "user.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/user.ts#L7"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/user.ts#L7"
           },
           "comment": {
             "description": null,
@@ -6054,7 +6054,7 @@
             "line": 10,
             "file": "user.ts",
             "path": "api_schemas",
-            "url": "https://github.com/devramsean0/hcb.js/blob/6c18c46/src/api_schemas/user.ts#L10"
+            "url": "https://github.com/devramsean0/hcb.js/blob/d62812e/src/api_schemas/user.ts#L10"
           },
           "comment": {
             "description": null,
