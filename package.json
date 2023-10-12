@@ -8,6 +8,7 @@
   "devDependencies": {
     "typedoc-json-parser": "^8.2.0"
   },
+  "private": "true",
   "scripts": {
     "typedoc:migrate": "typedoc-json-parser --migrate docs"
   }
