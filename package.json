@@ -6,10 +6,10 @@
   "author": "Sean Outram <outramsean0@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "typedoc-json-parser": "^8.2.0"
+    "typedoc-json-parser": "^10.0.0"
   },
   "private": "true",
   "scripts": {
-    "typedoc:migrate": "typedoc-json-parser --migrate docs"
+    "typedoc:migrate": "typedoc-json-parser --migrate json-docs"
   }
 }
