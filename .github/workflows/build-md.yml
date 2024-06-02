@@ -15,7 +15,7 @@ jobs:
             - uses: actions/checkout@v2
             - name: Install tjp
               run: cargo install typedoc_json_to_md
-            - name: Run and hope
+            - name: Run tool
               run: tjp_to_md
             - name: Commit
               run: |
