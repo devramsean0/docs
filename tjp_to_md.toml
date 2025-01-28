@@ -1,5 +1,0 @@
-input_dir = "json-docs"
-output_dir = "md-docs"
-max_threads = 5
-regen_all = false
-gen_metadata_in_file = true
